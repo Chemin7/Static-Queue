@@ -39,6 +39,7 @@ class Queue {
         void enqueue(const T);
         T dequeue();
         T getFirst();
+        T getLast();
 
         int getFirstPos();
         int getLastPos();
@@ -117,6 +118,10 @@ T Queue<T,ARRAYSIZE>::dequeue() {
 template <class T,int ARRAYSIZE>
 T Queue<T,ARRAYSIZE>::getFirst() {
     return data[firstPos];
+    }
+template <class T,int ARRAYSIZE>
+T Queue<T,ARRAYSIZE>::getLast() {
+    return data[lastPos];
     }
 
     template <class T,int ARRAYSIZE>

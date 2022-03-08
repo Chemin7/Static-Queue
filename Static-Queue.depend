@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646757344 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 7\static-queue\main.cpp
+	<iostream>
+	"staticQueue.h"
+
+1646757226 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 7\static-queue\staticqueue.h
+	<exception>
+	<string>
+
