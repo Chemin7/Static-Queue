@@ -7,3 +7,16 @@
 	<exception>
 	<string>
 
+1646769633 source:c:\users\usuario\documents\proyectos\static-queue\main.cpp
+	<iostream>
+	"staticQueue.h"
+	"validate.h"
+	<string>
+
+1646769055 c:\users\usuario\documents\proyectos\static-queue\staticqueue.h
+	<exception>
+	<string>
+	<iostream>
+
+1646769280 c:\users\usuario\documents\proyectos\static-queue\validate.h
+
